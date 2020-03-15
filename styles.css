@@ -1,0 +1,94 @@
+body {
+
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+background-color: Coral;
+font-size: 80%
+
+}
+
+header {
+padding: 30px
+}
+
+
+header,
+main,
+footer {
+	background-color: BlanchedAlmond;
+	font-size: 1.6 em
+
+}
+
+header h1 {
+	text-align: center;
+}
+
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+color: SaddleBrown;
+font-size: xx-large;
+}
+
+h2 {
+	padding: 30px 1px 5px 1px;
+
+}
+
+
+section:first-child {
+	margin-top: 1;
+}
+
+section:last-child {
+	margin-bottom: 1;
+}
+
+nav {
+	text-align: center;
+	padding: 5px 10px 20px 10px;
+}
+
+
+figure {
+	margin: 0;
+	padding: 0 0 0 10px;
+	text-align: center;
+}
+
+figcaption {
+
+font-style: italic;
+font-size: 13px	
+}
+
+
+footer {
+	text-align: center;
+	padding: 3px;
+}
+
+footer p {
+	display: inline-block;
+}
+
+p {
+   color: Brown;
+font-size: medium
+}
+
+#second {
+
+font-size: smaller;
+
+}
+
+p.beginning {
+font-weight: bolder
+
+}
